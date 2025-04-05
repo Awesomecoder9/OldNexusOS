@@ -1,0 +1,11 @@
+BasedOnStyle: Microsoft
+AllowShortIfStatementsOnASingleLine: Never
+Cpp11BracedListStyle: "true"
+Language: Cpp
+MaxEmptyLinesToKeep: "2"
+NamespaceIndentation: All
+PointerAlignment: Left
+SpaceAfterTemplateKeyword: "false"
+Standard: Auto
+TabWidth: "4"
+UseTab: ForIndentation
